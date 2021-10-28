@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zoft-cc.netlify.app/"
 languageCode = "en-us"
 title = "ZOFT.CC Project"
 theme = "hugo-coder"
